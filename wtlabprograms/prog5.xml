@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+
+<student>
+	<VTU>
+		<USN>1BI15CS007</USN>
+		<name>Charlie</name>
+		<college>BIT</college>
+		<branch>CSE</branch>
+		<YOJ>2015</YOJ>
+		<email>charlie@mail.com</email>
+	</VTU>
+	<VTU>
+		<USN>1BI15CS019</USN>
+		<name>Leah</name>
+		<college>BIT</college>
+		<branch>CSE</branch>
+		<YOJ>2015</YOJ>
+		<email>leah@mail.com</email>
+	</VTU>
+	<VTU>
+		<USN>1BI16EC001</USN>
+		<name>Amanda</name>
+		<college>BIT</college>
+		<branch>EC</branch>
+		<YOJ>2016</YOJ>
+		<email>amanda@mail.com</email>
+	</VTU>
+</student>
+

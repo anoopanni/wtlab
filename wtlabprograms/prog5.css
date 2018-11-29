@@ -1,0 +1,14 @@
+USN{
+	font-weight:bold;
+	display:block;
+	color:red;
+	font-family: courier,prestige;
+	font-size: 20pt;
+}
+
+name,college,branch,YOJ,email{
+	font-variant:small-caps;
+	color:navy;
+	display:block;
+	font-size:15pt;
+}
